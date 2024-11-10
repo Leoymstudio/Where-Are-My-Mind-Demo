@@ -1,0 +1,12 @@
+travel-journal/
+├── src/
+│   ├── components/
+│   │   ├── Map/
+│   │   ├── Journal/
+│   │   ├── Photos/
+│   │   ├── Tracking/
+│   │   └── Profile/
+│   ├── layouts/
+│   ├── pages/
+│   ├── utils/
+│   └── services/ 

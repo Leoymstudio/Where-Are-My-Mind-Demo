@@ -1,0 +1,9 @@
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+}
+
+/* 修复 Leaflet 默认图标问题 */
+.leaflet-default-icon-path {
+  background-image: url(https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png);
+} 
